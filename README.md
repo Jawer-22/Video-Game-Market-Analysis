@@ -87,29 +87,9 @@ video-game-market-analysis/
 - Python 3.8+
 - pip
 
-### Setup
+Run the following website to view the dashboard:
 
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/video-game-market-analysis.git
-cd video-game-market-analysis
-
-# Install dependencies
-pip install -r requirements.txt
-```
-
-### Run Notebooks
-Open with Jupyter Notebook or JupyterLab:
-```bash
-jupyter notebook
-```
-Navigate to the `Notebooks/` folder and run them in order (01 → 02 → 03 → 04).
-
-### Run Dashboard
-```bash
-streamlit run WebApp/streamlit_app.py
-```
-The dashboard will open at `http://localhost:8501`.
+https://video-game-market-analysis-6z986b2xspwdv7mt7mjwzo.streamlit.app
 
 ## 🛠️ Technologies Used
 
