@@ -1,6 +1,6 @@
 # 🎮 Video Game Market Analysis
 
-An exploratory data analysis (EDA) project that uncovers patterns and trends in the global video game market using sales data for **16,000+ games** spanning 1980–2020.
+An exploratory data analysis (EDA) project that uncovers patterns and trends in the global video game market using sales data for **16,000+ games** spanning 1980–2016.
 
 ## 📌 Project Overview
 
@@ -54,6 +54,42 @@ video-game-market-analysis/
 | `Global_Sales` | Total worldwide sales (millions) |
 
 **Source**: https://www.kaggle.com/datasets/gregorut/videogamesales
+
+## 🎮 Platform Reference
+
+| Abbreviation | Full Form |
+|---|---|
+| **2600** | Atari 2600 |
+| **3DO** | 3DO Interactive Multiplayer |
+| **3DS** | Nintendo 3DS |
+| **DC** | Sega Dreamcast |
+| **DS** | Nintendo DS |
+| **GB** | Game Boy |
+| **GBA** | Game Boy Advance |
+| **GC** | Nintendo GameCube |
+| **GEN** | Sega Genesis |
+| **GG** | Sega Game Gear |
+| **N64** | Nintendo 64 |
+| **NES** | Nintendo Entertainment System |
+| **NG** | Neo Geo |
+| **PC** | Personal Computer |
+| **PCFX** | PC-FX |
+| **PS** | PlayStation |
+| **PS2** | PlayStation 2 |
+| **PS3** | PlayStation 3 |
+| **PS4** | PlayStation 4 |
+| **PSP** | PlayStation Portable |
+| **PSV** | PlayStation Vita |
+| **SAT** | Sega Saturn |
+| **SCD** | Sega CD |
+| **SNES** | Super Nintendo Entertainment System |
+| **TG16** | TurboGrafx-16 |
+| **WS** | WonderSwan |
+| **Wii** | Nintendo Wii |
+| **WiiU** | Nintendo Wii U |
+| **X360** | Xbox 360 |
+| **XB** | Xbox |
+| **XOne** | Xbox One |
 
 ## 🔍 Key Insights
 
