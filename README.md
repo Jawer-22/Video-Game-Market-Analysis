@@ -123,8 +123,7 @@ video-game-market-analysis/
 - Python 3.8+
 - pip
 - Run the following website to view the dashboard:
-https://video-game-market-analysis-6z986b2xspwdv7mt7mjwzo.streamlit.app
-
+https://video-game-market-analysis-wkpjt3la7xcp7urmtcufms.streamlit.app/
 ## 🛠️ Technologies Used
 
 | Tool | Purpose |
