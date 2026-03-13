@@ -86,9 +86,7 @@ video-game-market-analysis/
 ### Prerequisites
 - Python 3.8+
 - pip
-
-Run the following website to view the dashboard:
-
+- Run the following website to view the dashboard:
 https://video-game-market-analysis-6z986b2xspwdv7mt7mjwzo.streamlit.app
 
 ## 🛠️ Technologies Used

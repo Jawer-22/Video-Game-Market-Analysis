@@ -79,6 +79,7 @@ def load_data():
             df = pd.read_csv(p)
             df = df.dropna(subset=["Year"])
             df["Year"] = df["Year"].astype(int)
+            df = df[df["Year"] <= 2016]
             df["Publisher"] = df["Publisher"].fillna("Unknown")
             return df
     
